@@ -1,0 +1,3 @@
+Server for the Gadacz application. I've just played with socket connections and created Gadacz communicator server (J2SE) and mobile client (J2SE, MIDP1.0) for it, bot as POC in only one day. Mobile client you can find in separate repo.
+
+How it works? Simple - just run GadaczServerApp class and press 'Start Server' button. This application uses additional Substance LAF for Swing, so it is shiny and polish :)
